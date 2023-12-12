@@ -10,6 +10,7 @@ Please [check out the homepage](https://vite-ts-tailwind-starter.vercel.app/) fo
 
 ## Features
 
+- Element Plus
 - Vue 3
 - Pinia store (fully typed Vuex store is available up to template version 1.13)
 - Routing using [vue-router 4](https://router.vuejs.org/)

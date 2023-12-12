@@ -24,7 +24,9 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
-    }
+    },
+
+    "types": ["element-plus/global", "auto-imports.d.ts"]
   },
   "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.vue", "tests/**/*.ts"],
   "exclude": ["node_modules", "dist", "public"],
